@@ -1,0 +1,21 @@
+{
+  "name": "bst-project",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "This project is a simple implementation of a Binary Search Tree (BST) inspired by The Odin Project curriculum. It focuses on understanding tree structure, recursion, and common BST operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blessingay5/BST-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blessingay5/BST-Project/issues"
+  },
+  "homepage": "https://github.com/blessingay5/BST-Project#readme"
+}
