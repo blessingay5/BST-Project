@@ -20,26 +20,6 @@ A Binary Search Tree is a type of binary tree where each node has at most two ch
 - Check whether the tree is balanced
 - Rebalance the tree when needed
 
-## Getting Started
-
-1. Clone the repository
-2. Open the project folder in your terminal
-3. Run the JavaScript file with Node.js
-
-```bash
-node index.js
-```
-
-## Example Usage
-
-```javascript
-const bst = new Tree();
-
-[5, 3, 7, 2, 4, 6, 8].forEach((value) => bst.insert(value));
-
-console.log(bst.inorder());
-console.log(bst.isBalanced());
-```
 
 ## Learning Goals
 
@@ -48,6 +28,3 @@ console.log(bst.isBalanced());
 - Learn how balancing affects performance
 - Build a solid foundation for more advanced data structures
 
-## Note
-
-This is a beginner-friendly project meant to practice core BST concepts and improve problem-solving skills.
